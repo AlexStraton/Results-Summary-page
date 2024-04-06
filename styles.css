@@ -66,6 +66,7 @@ html, body {
   font-weight: 300;
   color: hsl(228, 3%, 71%);
   font-size: 45px;
+  
 }
 .of-100 {
   font-weight: 250;
@@ -81,7 +82,9 @@ html, body {
   font-weight: 300;
   font-size: 30px;
   color: hsl(228, 3%, 71%);
- 
+ display: flex;
+ text-wrap: wrap;
+ padding: 20px;
 }
 
 /*right side*/
